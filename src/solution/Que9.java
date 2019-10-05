@@ -2,7 +2,7 @@ package solution;
 
 import java.util.Scanner;
 
-public class Que9 {
+public class Que9{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Enter String Value : ");
